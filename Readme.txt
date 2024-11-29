@@ -38,3 +38,6 @@ to get started - first intall libgdx from libgdx.com
                         and you can pause the game , resume the game as you want 
                         and exit the game  
 
+github repo link 
+https://github.com/navneet23341/Bird-Fury
+
